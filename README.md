@@ -17,3 +17,4 @@ A madlibs project for Skyline HS Utah
 * 
 # Challenges 
 * pronouns in array list
+* Re-using the same variables
