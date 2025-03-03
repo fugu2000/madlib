@@ -14,7 +14,7 @@ A madlibs project for Skyline HS Utah
 # Approach 
 * Organize our objectives and stories in a seperate document
 * We used IF statements to keep track of which story and which variables to use 
-* 
+
 # Challenges 
 * pronouns in array list
 * Re-using the same variables
