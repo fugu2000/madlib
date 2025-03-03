@@ -5,13 +5,14 @@ A madlibs project for Skyline HS Utah
 
 # Team Members
 * Tiger Yang
-* Marcus Nishikawa
+* Marcus
 * Franklin Chia
 * Isaac Chung
 * Shengbin Yang
 * Margot Zollinger
 
 # Approach 
-# Challenges
-
-* pronouns in array lists
+* Organize our objectives and stories in a seperate document
+* We used IF statements to keep track of which story and which variables to use 
+* 
+# Challenges 
