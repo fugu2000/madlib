@@ -14,4 +14,4 @@ A madlibs project for Skyline HS Utah
 # Approach 
 # Challenges
 
-*prounouns in array lists
+* pronouns in array lists
