@@ -5,9 +5,9 @@ A madlibs project for Skyline HS Utah
 
 # Team Members
 * Tiger Yang
-* Marcus
+* Marcus Nishikawa
 * Franklin Chia
-* Isaac Chung
+* Isaac Cheung
 * Shengbin Yang
 * Margot Zollinger
 
@@ -16,3 +16,4 @@ A madlibs project for Skyline HS Utah
 * We used IF statements to keep track of which story and which variables to use 
 * 
 # Challenges 
+* pronouns in array list
