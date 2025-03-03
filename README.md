@@ -5,7 +5,7 @@ A madlibs project for Skyline HS Utah
 
 # Team Members
 * Tiger Yang
-* Marcus
+* Marcus Nishikawa
 * Franklin Chia
 * Isaac Chung
 * Shengbin Yang
