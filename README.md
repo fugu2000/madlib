@@ -4,14 +4,15 @@ A madlibs project for Skyline HS Utah
 [Source Code](https://github.com/fugu2000/madlib/tree/main/src)
 
 # Team Members
-* Tiger Yang
-* Marcus Nishikawa
-* Franklin Chia
-* Isaac Cheung
-* Shengbin Yang
-* Margot Zollinger
+* Tiger Yang - story maker & tester
+* Marcus Nishikawa - main programmer
+* Franklin Chia - main programmer
+* Isaac Cheung 
+* Shengbin Yang - story maker 
+* Margot Zollinger - story maker 
 
 # Approach 
+* Distributed Jobs
 * Organize our objectives and stories in a seperate document
 * We used IF statements to keep track of which story and which variables to use 
 
