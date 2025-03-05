@@ -17,7 +17,7 @@ public class Main
     static boolean run = true;
     // Story integer used to determine which story should be used
     static public int story;
-    // ARRAY LISTS
+    //I HATE ARRAY LISTS
     static ArrayList<Integer> stories = new ArrayList<Integer>();
     public static ArrayList<String> storyInputs = new ArrayList<String>();
     public static void main(String[] args)
