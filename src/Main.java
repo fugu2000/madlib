@@ -277,7 +277,7 @@ public class Main
             }
             System.out.println(output);
             // ask to repeat
-            System.out.println("Would you like to leave?");
+            System.out.println("Would you like to leave? (I am NOT making a yes or no just type true or false gng :wilted_rose:");
             MadLibsUtility.getValidBoolean();
             if(MadLibsUtility.bInput == true)
             {
