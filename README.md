@@ -23,4 +23,4 @@ A madlibs project for Skyline HS Utah
 * Absent workers 
 * pronouns in array list (just reusing it was hard)
 * Re-using the same variables (storing these were never figured out)
-* none of these ever were solved 😭
+* Fine tuning the stories
