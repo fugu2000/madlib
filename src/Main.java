@@ -9,7 +9,7 @@ public class Main
     public static String[] s1 = { "noun", "adj", "noun", "noun", "adj", "adj", "noun", "noun", "noun", "noun", "noun", "adj", "adj", "noun", "noun", "noun", "noun", "adj", "noun", "adj" };
     public static String[] s2 = { "adj", "noun", "adj", "noun", "verb", "noun", "adj", "noun", "noun", "adj", "noun", "verb", "noun", "noun", "adj", "noun", "verb", "noun", "adj", "noun", "verb", "adj", "adj", "verb" };
     public static String[] s3 = {"adj", "noun", "pronoun", "verb", "noun", "pronoun", "verb", "noun", "pronoun", "noun", "verb", "noun", "verb", "adj", "pronoun", "verb", "pronoun", "pronoun", "verb", "adj", "pronoun", "noun", "adj"};
-    public static String[] s4 = {"pronoun", "adj", "noun", "noun", "adj", "noun", "noun", "adj", "noun", "adj", "noun", "noun", "noun"};
+    public static String[] s4 = {"adj", "adj", "adj", "adj", "adj", "verb", "adj", "verb", "noun", "noun", "adj", "adj", "adj", "adj", "adj"};
     // Initializes scanner for input
     public static Scanner scanner = new Scanner(System.in);
     public static Scanner boo = new Scanner(System.in);
