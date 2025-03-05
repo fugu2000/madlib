@@ -8,7 +8,7 @@ A madlibs project for Skyline HS Utah
 * Marcus Nishikawa - main programmer
 * Franklin Chia - main programmer
 * Isaac Cheung - assistent programmer
-* Shengbin Yang -
+* Shengbin Yang - story maker
 * Margot Zollinger - story maker & assistent programmer
 
 # Approach 
