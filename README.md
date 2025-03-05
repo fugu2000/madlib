@@ -15,6 +15,7 @@ A madlibs project for Skyline HS Utah
 * Distributed Jobs
 * Organize our objectives and stories in a seperate document
 * We used IF statements to keep track of which story and which variables to use
+* (random marcus note uh if statements were only used for randomization)
 * randomly selected story to use through arraylist
 * arraylists also used to collect inputs
 
