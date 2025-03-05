@@ -5,9 +5,9 @@ A madlibs project for Skyline HS Utah
 
 # Team Members
 * Tiger Yang - story maker & tester
-* Marcus Nishikawa - lead programmer
-* Franklin Chia - main programmer
-* Isaac Cheung - assistant programmer
+* Marcus Nishikawa - lead programmer (most of the logic)
+* Franklin Chia - main programmer (the tedious stuff and telling isaac to do the tedious stuff)
+* Isaac Cheung - assistant programmer (thanks for doing the tedious stuff)
 * Shengbin Yang - story maker
 * Margot Zollinger - story maker
 
