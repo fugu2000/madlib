@@ -20,6 +20,6 @@ A madlibs project for Skyline HS Utah
 
 # Challenges 
 * Absent workers 
-* pronouns in array list
-* Re-using the same variables
+* pronouns in array list (just reusing it was hard)
+* Re-using the same variables (storing these were never figured out)
 * none of these ever were solved 😭
