@@ -17,6 +17,6 @@ A madlibs project for Skyline HS Utah
 * We used IF statements to keep track of which story and which variables to use 
 
 # Challenges 
-* 
+* Absent workers 
 * pronouns in array list
 * Re-using the same variables
