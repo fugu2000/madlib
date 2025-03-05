@@ -9,7 +9,7 @@ A madlibs project for Skyline HS Utah
 * Franklin Chia - main programmer
 * Isaac Cheung - assistent programmer
 * Shengbin Yang -
-* Margot Zollinger - story maker 
+* Margot Zollinger - story maker & assistent programmer
 
 # Approach 
 * Distributed Jobs
@@ -17,5 +17,6 @@ A madlibs project for Skyline HS Utah
 * We used IF statements to keep track of which story and which variables to use 
 
 # Challenges 
+* 
 * pronouns in array list
 * Re-using the same variables
