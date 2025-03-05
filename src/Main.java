@@ -62,21 +62,21 @@ public class Main
             if(story == 0)
             {
                 output = "There was once a cow. The cow really wanted to go on an adventure. This was not a normal cow. The cow had secret magic abilities and was capable of turning things into ";
-                output += storyInputs[0];
+                output += storyInputs.get(0);
                 output += " and was ready to fight ";
-                output += storyInputs[1];
+                output += storyInputs.get(1);
                 output += " evil ";
-                output += storyInputs[2];
+                output += storyInputs.get(2);
                 output += ". His name was none other than Timmy. Timmy's iconic look included a";
-                output += storyInputs[3];
+                output += storyInputs.get(3);
                 output += " and a ";
-                output += storyInputs[4];
+                output += storyInputs.get(4);
                 output += ". Once dressed, the cow went on his ";
-                output += storyInputs[5];
+                output += storyInputs.get(5);
                 output += " way. After a long ";
-                output += storyInputs[6];
+                output += storyInputs.get(6);
                 output += " travel, the cow made it to ";
-                output += storyInputs[7];
+                output += storyInputs.get(7);
                 output += "land! Here, there were three stages. Stage one was Timmy using his magic ";
                 output += storyInputs.get(8);
                 output += " to fight a ";
@@ -89,23 +89,23 @@ public class Main
                 output += storyInputs.get(12);
                 output += " into a ";
                 output += storyInputs.get(13);
-                output += ". With the brush of a shoulder, Timmy was on his way. Next up, it was the "
+                output += ". With the brush of a shoulder, Timmy was on his way. Next up, it was the ";
                 output += storyInputs.get(14);
-                output += " "
+                output += " ";
                 output += storyInputs.get(15);
-                output += ". This enemy had tricks of their sleeves, as they could summon "
+                output += ". This enemy had tricks of their sleeves, as they could summon ";
                 output += storyInputs.get(16);
                 output += ". Using Timmy's ultimate dodging skills, it was able to tire the enemy and find the opportunity to turn the enemy into a ";
                 output += storyInputs.get(17);
-                output += ". Finally, Timmy was on the final stage. This time the enemy was a "
+                output += ". Finally, Timmy was on the final stage. This time the enemy was a ";
                 output += storyInputs.get(18);
-                output += "The enemy used it's ultimate move: "
+                output += "The enemy used it's ultimate move: ";
                 output += storyInputs.get(19);
                 output += " ";
                 output += storyInputs.get(20);
-                output += " attack! And… oh, Timmy died. Aw shucks better luck next time. At least you can treat yourself to some "
+                output += " attack! And… oh, Timmy died. Aw shucks better luck next time. At least you can treat yourself to some ";
                 output += storyInputs.get(21);
-                output += " steak."
+                output += " steak.";
 
                 
             }
@@ -115,9 +115,9 @@ public class Main
                 output += storyInputs.get(0);
                 output += " land, there was a ";
                 output += " that caused chaos wherever it went. This wasn't just any ordinary creature—this was the ";
-                output += storyInputs.get(1);
-                output += " ";
                 output += storyInputs.get(2);
+                output += " ";
+                output += storyInputs.get(1);
                 output += " known as Fluffington. Fluffington had the power to ";
                 output += storyInputs.get(3);
                 output += " anyone who dared get too close, and it loved to terrorize the peaceful village of ";
@@ -176,7 +176,7 @@ public class Main
                 output += storyInputs.get(4);
                 output += " at least ";
                 output += storyInputs.get(5);
-                output += " times. It became so bad that their friends started to notice."
+                output += " times. It became so bad that their friends started to notice.";
                 output += storyInputs.get(6);
                 output += "One morning, Isaac was at the local ";
                 output += storyInputs.get(7);
@@ -206,11 +206,11 @@ public class Main
                 output += storyInputs.get(19);
                 output += ". The ";
                 output += storyInputs.get(20);
-                output += " problem soon seemed to fix itself."
+                output += " problem soon seemed to fix itself.";
             }
             else
             {
-                output = "One day, you found the ";
+                output += "One day, you found the ";
 
                 output += storyInputs.get(0); 
                 
@@ -218,7 +218,7 @@ public class Main
                 
                 output += storyInputs.get(1); 
                 
-                output += " and said to you: "Hammond habibi!" This made you very ";
+                output += " and said to you: \"Hammond habibi!\" This made you very ";
                 
                 output += storyInputs.get(2); 
                 
@@ -232,14 +232,13 @@ public class Main
                 
                 output += " thing I have ever eaten. I seem to have fallen in love with you. You are so good to me. I want to be your friend forever,\" so you decided to go a step further. After dinner, you and Hammod rowed a boat. Suddenly, Hammod fell into the water. You tried your best to save Hammod, saying: ";
                 
-                output += storyInputs.get(5); 
+                output += storyInputs.get(6); 
                 
                 output += " while saving him, but Hammod didn't say anything, just smiled at you and soon floated away. You felt very ";
                 
-                output += storyInputs.get(6); 
+                output += storyInputs.get(5); 
                 
                 output += " about this and cried bitterly, recalling every bit of Hammod and you. You wanted to say: ";
-                
                 output += storyInputs.get(7); 
                 
                 output += " while Hammod closed his eyes in the river... At this time, someone suddenly appears behind you. He is holding ";
@@ -250,7 +249,7 @@ public class Main
                 
                 output += storyInputs.get(9); 
                 
-                output += " in his mouth. He said, Give up, you have gone through this cycle a thousand times, just for a Hammod that does not exist, what about it? This is a story about ";
+                output += " in his mouth. He said, \"Give up, you have gone through this cycle a thousand times, just for a Hammod that does not exist, what about it?\" This is a story about ";
                 
                 output += storyInputs.get(10);
                 
