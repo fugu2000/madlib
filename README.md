@@ -9,7 +9,7 @@ A madlibs project for Skyline HS Utah
 * Franklin Chia - main programmer
 * Isaac Cheung - assistent programmer
 * Shengbin Yang - story maker
-* Margot Zollinger - story maker & assistent programmer
+* Margot Zollinger - story maker
 
 # Approach 
 * Distributed Jobs
