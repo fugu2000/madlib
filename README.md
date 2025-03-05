@@ -7,8 +7,8 @@ A madlibs project for Skyline HS Utah
 * Tiger Yang - story maker & tester
 * Marcus Nishikawa - main programmer
 * Franklin Chia - main programmer
-* Isaac Cheung 
-* Shengbin Yang - story maker 
+* Isaac Cheung - assistent programmer
+* Shengbin Yang -
 * Margot Zollinger - story maker 
 
 # Approach 
