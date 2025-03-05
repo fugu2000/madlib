@@ -210,7 +210,7 @@ public class Main
             }
             else
             {
-                output += "One day, you found the ";
+                output = "One day, you found the ";
 
                 output += storyInputs.get(0); 
                 
