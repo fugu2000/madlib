@@ -232,13 +232,14 @@ public class Main
                 
                 output += " thing I have ever eaten. I seem to have fallen in love with you. You are so good to me. I want to be your friend forever,\" so you decided to go a step further. After dinner, you and Hammod rowed a boat. Suddenly, Hammod fell into the water. You tried your best to save Hammod, saying: ";
                 
-                output += storyInputs.get(6); 
+                output += storyInputs.get(5); 
                 
                 output += " while saving him, but Hammod didn't say anything, just smiled at you and soon floated away. You felt very ";
                 
-                output += storyInputs.get(5); 
+                output += storyInputs.get(6); 
                 
                 output += " about this and cried bitterly, recalling every bit of Hammod and you. You wanted to say: ";
+                
                 output += storyInputs.get(7); 
                 
                 output += " while Hammod closed his eyes in the river... At this time, someone suddenly appears behind you. He is holding ";
@@ -249,7 +250,7 @@ public class Main
                 
                 output += storyInputs.get(9); 
                 
-                output += " in his mouth. He said, "Give up, you have gone through this cycle a thousand times, just for a Hammod that does not exist, what about it?" This is a story about ";
+                output += " in his mouth. He said, Give up, you have gone through this cycle a thousand times, just for a Hammod that does not exist, what about it? This is a story about ";
                 
                 output += storyInputs.get(10);
                 
