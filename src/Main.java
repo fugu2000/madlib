@@ -6,10 +6,15 @@ public class Main
     // final story
     static String output;
     // Defines input types
-    public static String[] s1 = { "noun", "adj", "noun", "noun", "adj", "adj", "noun", "noun", "noun", "noun", "noun", "adj", "adj", "noun", "noun", "noun", "noun", "adj", "noun", "adj" };
+    public static String[] s1 = { "noun", "adj", "noun", "noun", "adj", "adj", "noun", "noun", "noun", "adj", "noun", "noun", "noun", "adj", "noun", "noun", "noun", "noun", "adj", "noun", "adj" };
     public static String[] s2 = { "adj", "noun", "adj", "noun", "verb", "noun", "adj", "noun", "noun", "adj", "noun", "verb", "noun", "noun", "adj", "noun", "verb", "noun", "adj", "noun", "verb", "adj", "adj", "verb" };
     public static String[] s3 = {"adj", "noun", "pronoun", "verb", "noun", "pronoun", "verb", "noun", "pronoun", "noun", "verb", "noun", "verb", "adj", "pronoun", "verb", "pronoun", "pronoun", "verb", "adj", "pronoun", "noun", "adj"};
-    public static String[] s4 = {"adj", "adj", "adj", "adj", "adj", "verb", "adj", "verb", "noun", "noun", "adj", "adj", "adj", "adj", "adj"};
+    public static String[] s4 = {
+    "adj", "adj", "adj", // Adjective1, Adjective2, Adjective3
+    "adj", "adj", "verb", // Adjective4, Adjective5, Verb1
+    "adj", "verb", "noun", // Adjective6, Verb2, Noun1
+    "noun", "noun", "noun", "adj", "adj", "adj", "adj" // Noun2, Adjective1, Adjective1, Adjective1
+};
     // Initializes scanner for input
     public static Scanner scanner = new Scanner(System.in);
     public static Scanner boo = new Scanner(System.in);
@@ -66,45 +71,44 @@ public class Main
                 output += " and was ready to fight ";
                 output += storyInputs.get(1);
                 output += " evil ";
-                output += storyInputs.get(2);
                 output += ". His name was none other than Timmy. Timmy's iconic look included a";
-                output += storyInputs.get(3);
+                output += storyInputs.get(2);
                 output += " and a ";
-                output += storyInputs.get(4);
+                output += storyInputs.get(3);
                 output += ". Once dressed, the cow went on his ";
-                output += storyInputs.get(5);
+                output += storyInputs.get(4);
                 output += " way. After a long ";
-                output += storyInputs.get(6);
+                output += storyInputs.get(5);
                 output += " travel, the cow made it to ";
-                output += storyInputs.get(7);
+                output += storyInputs.get(6);
                 output += "land! Here, there were three stages. Stage one was Timmy using his magic ";
-                output += storyInputs.get(8);
+                output += storyInputs.get(7);
                 output += " to fight a ";
-                output += storyInputs.get(9);
+                output += storyInputs.get(8);
                 output += "! It was a long tough battle, Timmy was untrained and ";
-                output += storyInputs.get(10);
+                output += storyInputs.get(9);
                 output += ". Without a choice, Timmy channled it's inner ";
-                output += storyInputs.get(11);
+                output += storyInputs.get(10);
                 output += ", and turned the ";
-                output += storyInputs.get(12);
+                output += storyInputs.get(11);
                 output += " into a ";
-                output += storyInputs.get(13);
+                output += storyInputs.get(12);
                 output += ". With the brush of a shoulder, Timmy was on his way. Next up, it was the ";
+                output += storyInputs.get(13);
+                output += " ";
                 output += storyInputs.get(14);
-                output += " ";
-                output += storyInputs.get(15);
                 output += ". This enemy had tricks of their sleeves, as they could summon ";
-                output += storyInputs.get(16);
+                output += storyInputs.get(15);
                 output += ". Using Timmy's ultimate dodging skills, it was able to tire the enemy and find the opportunity to turn the enemy into a ";
-                output += storyInputs.get(17);
+                output += storyInputs.get(16);
                 output += ". Finally, Timmy was on the final stage. This time the enemy was a ";
-                output += storyInputs.get(18);
+                output += storyInputs.get(17);
                 output += "The enemy used it's ultimate move: ";
-                output += storyInputs.get(19);
+                output += storyInputs.get(18);
                 output += " ";
-                output += storyInputs.get(20);
+                output += storyInputs.get(19);
                 output += " attack! And… oh, Timmy died. Aw shucks better luck next time. At least you can treat yourself to some ";
-                output += storyInputs.get(21);
+                output += storyInputs.get(20);
                 output += " steak.";
 
                 
@@ -210,7 +214,7 @@ public class Main
             }
             else
             {
-                output += "One day, you found the ";
+                output = "One day, you found the ";
 
                 output += storyInputs.get(0); 
                 
@@ -232,11 +236,11 @@ public class Main
                 
                 output += " thing I have ever eaten. I seem to have fallen in love with you. You are so good to me. I want to be your friend forever,\" so you decided to go a step further. After dinner, you and Hammod rowed a boat. Suddenly, Hammod fell into the water. You tried your best to save Hammod, saying: ";
                 
-                output += storyInputs.get(6); 
+                output += storyInputs.get(5); 
                 
                 output += " while saving him, but Hammod didn't say anything, just smiled at you and soon floated away. You felt very ";
                 
-                output += storyInputs.get(5); 
+                output += storyInputs.get(6); 
                 
                 output += " about this and cried bitterly, recalling every bit of Hammod and you. You wanted to say: ";
                 output += storyInputs.get(7); 
@@ -284,10 +288,7 @@ public class Main
                 run = false;
             }
             // clears out input list
-            for(int i = storyInputs.size(); i > 0; i--)
-            {
-                storyInputs.remove(Integer.valueOf(i));
-            }
+            storyInputs.clear();
             // check if all stories have been run through, if so, end program
             if (stories.size() == 0)
             {
