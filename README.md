@@ -6,8 +6,8 @@ A madlibs project for Skyline HS Utah
 # Team Members
 * Marcus Nishikawa - main programmer (most of the logic used)
 * Tiger Yang - story maker & tester
-* Franklin Chia - main programmer (the tedious stuff and telling isaac to do the tedious stuff) Also testing THANK YOU FRANKIE I LOVE YOU
-* Isaac Cheung - assistant programmer (thanks for doing the tedious stuff)
+* Franklin Chia - main programmer (the long stuff and ordering Isaac around) Also testing THANK YOU FRANKIE I LOVE YOU
+* Isaac Cheung - assistant programmer (thanks you for listening to Frankie Isaac he shouldn't have tickled you)
 * Shengbin Yang - story maker
 * Margot Zollinger - story maker
 
