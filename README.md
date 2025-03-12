@@ -23,3 +23,6 @@ A madlibs project for Skyline HS Utah
 * pronouns in array list (just reusing it was hard)
 * Re-using the same variables (storing these were never figured out)
 * Fine tuning the stories
+
+
+![New Piskel (2)](https://github.com/user-attachments/assets/843bf584-920f-4ce2-9c6d-ba5ba47e1353)
